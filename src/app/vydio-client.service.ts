@@ -52,7 +52,7 @@ export class VydioClientService {
     }
 
     loadVydioSdk() {
-        this.ScriptService.load('vydioClient');
+       // this.ScriptService.load('vydioClient');
     }
 
     initVydioConnector(VC, viewId, remoteViewId) {
