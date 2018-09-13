@@ -9,7 +9,7 @@ import { UserListComponent } from './user-list/user-list.component';
 import { HeaderComponent } from './header/header.component';
 
 import { VideoChatWindowComponent } from './video-chat-window/video-chat-window.component';
-import { AppRoutingModule } from './/app-routing.module';
+import { AppRoutingModule } from './app-routing.module';
 import { ChatWindowComponent } from './chat-window/chat-window.component';
 import { UserListHeaderComponent } from './user-list-header/user-list-header.component';
 import { TextChatWindowComponent } from './text-chat-window/text-chat-window.component';
